@@ -8,4 +8,4 @@ Este repositorio contiene el trabajo práctico de Proyecto JPA
 Para visualizar el trabajo práctico:
 
 1. **Clonar el Repositorio**:
-   https://github.com/Martinchox/
+   https://github.com/Martinchox/TrabajoPracticoJPA
